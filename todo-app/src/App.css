@@ -1,0 +1,45 @@
+.App {
+  background-color: rgb(216, 211, 203);
+  background-image: url("../public/back.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 750px;
+}
+.list {
+  background-color: rgb(190, 155, 109);
+  height: max-content;
+  width: max-content;
+margin: auto;
+margin-top: 25px;
+  background: rgba(187, 146, 125, 0.41);
+  border-radius: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(8.9px);
+  border: 1px solid rgba(152, 94, 64, 0.29);
+  opacity: 0.6;
+  border-radius: 5px;
+}
+.bar{
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 30px rgba(231, 225, 225, 0.1);
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(8.9px);
+  border: 1px solid rgba(150, 120, 105, 0.29);
+  opacity: 2;
+}
+.bar1{
+  background: rgba(233, 233, 233, 0.41);
+  border-radius: 10px;
+  box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(8.9px);
+  border: 1px solid rgba(150, 120, 105, 0.29);
+  opacity: 0.5;
+  color: white;
+}
