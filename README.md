@@ -3,7 +3,7 @@ Application having ability to show list of daily tasks.
 Adding new tasks mark them completed and delete from list.
 
 ## Access the application hosted on 
-https://ali-todo-application.netlify.app/
+https://lighthearted-pudding-68a370.netlify.app/
 
 # `npm install`
 Directing to backend folder and install the required dependencies.
